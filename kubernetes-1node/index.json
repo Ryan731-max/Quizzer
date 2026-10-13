@@ -1,6 +1,6 @@
 {
-  "title": "Kubernetes 1node",
-  "description": "Use a simple one node Kubernetes cluster and let user list all pods",
+  "title": "Docker-compose + Certbot",
+  "description": "Dans cet exercice, il est demandé de déployer une page web (service Nginx et un/plusieurs fichier(s) .html) et d'y appliquer un certificat quelconque. Suivre les étapes au fur et à mesure dépendamment du nombre d'information fourni par votre superviseur.",
   "details": {
     "intro": {
       "text": "intro.md"
