@@ -1,6 +1,6 @@
 
 <br>
 
-### WELL DONE !
+### BIEN JOUÉ !
 
-You solved this challenge!
+Le problème a bien été résolu !
