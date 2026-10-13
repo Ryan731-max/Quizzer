@@ -5,8 +5,9 @@ Run `k get pod -A`{{exec}} <br>
 <br> 03. Créer les dépendances nécessaires (dossiers de priorisation des configuration, comme configs, certs ou ssl) [Aucune aide disponible]       
 <br> 04. Modifier le fichier `docker-compose.yml`                                                                                                           
 <br> 05. Mettez les lignes conventionnelles nécessaires au déploiement de docker-compose [Services, environment, ports, etc.]
-<br> 06. Il vous faut impérativement créer un volume avant de déployer votre image
 
-<br> 07. Dans votre énoncé ici présent, Vous avez 2 services dans un seul grand bloc. (web:, certbot:)
+06. Il vous faut impérativement créer un volume avant de déployer votre image
 
-<br> Remarques, vous pouvez également choisir de créer `Certbot` à l'extérieur des conteneurs comme toute application native.
+07. Dans votre énoncé ici présent, Vous avez 2 services dans un seul grand bloc. (web:, certbot:)
+
+Remarques, vous pouvez également choisir de créer `Certbot` à l'extérieur des conteneurs comme toute application native.
